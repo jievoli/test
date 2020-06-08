@@ -1,0 +1,15 @@
+1.基本概念
+	仓库(Repository)
+	收藏(Star)
+	复制克隆项目(Fork)----分叉:fork的项目是独立存在的
+	发起请求(Pull Request)：fork的项目中修改，想要原来的项目也改，就要发起请求
+	关注(Watch):关注的项目更新时可以收到通知
+	事务卡片(Issue)
+
+
+github访问较慢，翻墙（在github里搜shadowsocks）	
+	
+	
+	
+	
+	
